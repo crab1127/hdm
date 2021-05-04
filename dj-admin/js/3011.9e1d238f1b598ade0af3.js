@@ -1,0 +1,1 @@
+(self.webpackChunkxiaoniao=self.webpackChunkxiaoniao||[]).push([[3011],{83011:(e,a,n)=>{"use strict";n.r(a),n.d(a,{default:()=>l});var i=n(15851);const l=()=>i.createElement("div",null,"地址管理")}}]);
