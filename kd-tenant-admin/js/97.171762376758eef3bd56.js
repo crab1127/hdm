@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[97],{40:function(n,o,s){"use strict";s.r(o),s.d(o,"showPositionList",(function(){return e}));const e=[{value:1,label:"小程序显示"},{value:2,label:"外卖显示"}]}}]);
