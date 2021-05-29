@@ -1,0 +1,1 @@
+(self.webpackChunkxiaoniao=self.webpackChunkxiaoniao||[]).push([[1571],{91571:(a,t,s)=>{"use strict";s.r(t),s.d(t,{getTableData:()=>i});var e=s(81888);const i=(a,t)=>(0,e.JV)(Object.assign(Object.assign({},a),{formData:t})).then((a=>({total:a.total,list:a.data})))}}]);
