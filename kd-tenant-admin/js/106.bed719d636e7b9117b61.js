@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[106],{133:function(l,e,a){"use strict";a.r(e),a.d(e,"showPositionList",(function(){return n}));const n=[{value:1,label:"小程序主页显示"},{value:2,label:"食堂页面显示"},{value:3,label:"超市页面显示"},{value:4,label:"教育升级页面显示"},{value:5,label:"驾校页面显示"}]}}]);
